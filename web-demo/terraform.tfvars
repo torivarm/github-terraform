@@ -1,0 +1,5 @@
+location       = "westeurope"
+rg_name        = "rg-web"
+sa_name        = "saweb"
+source_content = "<h1>Web page created with Terraform - NEW</h1>"
+index_document = "index.html"
