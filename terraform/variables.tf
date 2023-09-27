@@ -9,3 +9,9 @@ variable "rg_location" {
     description = "Location of the resource group"
     default = "westeurope"
 }
+
+variable "sa_name" {
+    type = string
+    description = "Name of the storage account"
+    default = "satf"
+}
